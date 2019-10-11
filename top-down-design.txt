@@ -1,0 +1,50 @@
+1 Gather dirty clothes
+  1.1 Search apartment for additional dirty clothes
+    1.1.1 Grab hamper
+    1.2.1 Check bathroom for dirty clothes
+      1.2.1.1 Walk to bathroom
+      1.2.1.2 Put dirty clothes in hamper
+    1.3.1 Check bedroom for dirty clothes
+      1.3.1.1 Walk to bedroom
+      1.3.1.2 Put dirty clothes in hamper
+    1.4.1 Check gym bag for dirty clothes
+      1.4.1.1 Walk to gym bag
+      1.4.1.2 Put dirty clothes in hamper
+  1.2 Put clothes from hamper in washing machine
+    1.2.1 Go to hamper
+    1.2.2 Take hamper to washing machine
+    1.2.3 Open washing machine
+    1.2.4 Check pockets of each item to make sure they are empty
+      1.2.4.1 Reach into pockets of each item
+      1.2.4.2 Remove any items found
+    1.2.5 Place each item in washing machine
+2 Wash clothes
+  2.1 Set temperature
+    2.1.1 Turn dial
+  2.2 Set load size
+    2.2.1 Turn dial
+  2.3 Set wash time
+    2.3.1 Turn dial
+  2.4 Press start
+3 Dry clothes
+  3.1 Take clothes out of washing machine and put in dryer
+    3.1.1 Grab each item
+    3.1.2 Put each item in dryer
+  3.2 Remove lint
+    3.2.1 Pull out lint drawer
+    3.2.2 Remove lint
+      3.2.2.1 Put lint in trash
+    3.2.3 Replace lint drawer
+  3.3 Push start
+4 Fold and put away clothes
+  4.1 Take clothes out of dryer
+    4.1.1 Get laundry basket
+    4.1.2 Put each item into laundry basket
+  4.2 Fold clothes
+    4.1.1 Take each item out of basket
+    4.1.2 Fold each item
+    4.1.3 Sort by type in folded piles
+  4.3 Put away clothes
+    4.3.1 Take each stack and put in its proper place
+      4.3.1.1 Walk to closet
+      4.3.1.2 Place items in closet
