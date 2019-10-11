@@ -1,0 +1,16 @@
+Dog
+
+Attributes
+
+dirty (boolean)
+name (string)
+hungry (boolean)
+gottaGoOut (boolean)
+dateOfBirth (integer)
+
+Methods
+
+age (subtracts dateOfBirth from current date)
+washDog (sets dirty to false)
+feedDog (sets hungry to false)
+takeDogOut (sets gottaGoOut to false)
