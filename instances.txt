@@ -1,0 +1,33 @@
+Object: Julie
+
+Attributes:
+
+dirty: true
+name: "Julie"
+hungry: true
+gottaGoOut: true
+dateOfBirth: 2006
+
+Methods:
+
+age: 2019-2006 = 13
+washDog: dirty = false
+feedDog: hungry = false
+takeDogOut: gottaGoOut = false
+
+Object: Ziggy
+
+Attributes:
+
+dirty: false
+name: "Ziggy"
+hungry: true
+gottaGoOut: true
+dateOfBirth: 2017
+
+Methods:
+
+age: 2019-2017 = 2
+washDog: dirty = false
+feedDog: hungry = false
+takeDogOut: gottaGoOut = false
